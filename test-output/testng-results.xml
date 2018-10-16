@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101" started-at="2018-10-12T19:45:08Z" finished-at="2018-10-12T19:45:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101" started-at="2018-10-12T19:45:08Z" finished-at="2018-10-12T19:45:08Z">
+      <class name="com.qa.tests.DemoTest">
+        <test-method status="PASS" signature="SUB()[pri:0, instance:com.qa.tests.DemoTest@59fa1d9b]" name="SUB" duration-ms="37" started-at="2018-10-12T15:45:08Z" finished-at="2018-10-12T15:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SUB -->
+        <test-method status="PASS" signature="SUM()[pri:0, instance:com.qa.tests.DemoTest@59fa1d9b]" name="SUM" duration-ms="0" started-at="2018-10-12T15:45:08Z" finished-at="2018-10-12T15:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SUM -->
+      </class> <!-- com.qa.tests.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
